@@ -1,0 +1,1 @@
+import{a as s,o as n,f as o,h as a,t as c}from"./entry-d823e272.mjs";const r={class:"p-4"},f=s({__name:"PluginStripInspector",props:{effect:null},setup(e){const t=e;return(p,l)=>(n(),o("div",r,[a("div",null,c(t.effect.name),1)]))}});export{f as default};

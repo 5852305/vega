@@ -1,0 +1,1 @@
+import{k as t,o as s,f as r,l as a,m as c}from"./entry-d823e272.mjs";const _={};function l(e,o){return s(),r("select",c(e.$attrs,{class:"select"}),[a(e.$slots,"default",{},void 0,!0)],16)}var d=t(_,[["render",l],["__scopeId","data-v-1cac80ce"]]);export{d as default};
